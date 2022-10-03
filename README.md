@@ -3,6 +3,8 @@ A Classic Old Pong Game With Flutter
 
 Play game [Click here](https://swetathebest.github.io/flong/#/)
 
+![flong](https://user-images.githubusercontent.com/30392938/193613364-1dbb846b-90de-4157-b5b9-7c9a509f2fdc.gif)
+
 
 [flong_recording.webm](https://user-images.githubusercontent.com/30392938/193606796-88fa0c1b-b958-4cb4-9d77-e5128df94cf9.webm)
 
